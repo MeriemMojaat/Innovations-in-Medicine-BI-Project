@@ -68,7 +68,4 @@ This repository contains a Power BI report developed as part of a healthcare dat
 - Excel/CSV for data sources
 - Basic data modeling for KPI tracking
 
----
-💬 Contact
-For questions or feedback, feel free to reach out on LinkedIn or by email: maram.sliti@esprit.tn
 
